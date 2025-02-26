@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "exports": {
+    "./image": "./src/image.tsx",
     "./input-box": "./src/input-box.tsx",
     "./*": "./src/*.tsx"
   },
